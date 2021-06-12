@@ -1,0 +1,16 @@
+C:\Cursos\Primeiro Projeto\ProjetoZero\ProjetoZero\bin\Debug\net5.0\ProjetoZero.exe
+C:\Cursos\Primeiro Projeto\ProjetoZero\ProjetoZero\bin\Debug\net5.0\ProjetoZero.deps.json
+C:\Cursos\Primeiro Projeto\ProjetoZero\ProjetoZero\bin\Debug\net5.0\ProjetoZero.runtimeconfig.json
+C:\Cursos\Primeiro Projeto\ProjetoZero\ProjetoZero\bin\Debug\net5.0\ProjetoZero.runtimeconfig.dev.json
+C:\Cursos\Primeiro Projeto\ProjetoZero\ProjetoZero\bin\Debug\net5.0\ProjetoZero.dll
+C:\Cursos\Primeiro Projeto\ProjetoZero\ProjetoZero\bin\Debug\net5.0\ref\ProjetoZero.dll
+C:\Cursos\Primeiro Projeto\ProjetoZero\ProjetoZero\bin\Debug\net5.0\ProjetoZero.pdb
+C:\Cursos\Primeiro Projeto\ProjetoZero\ProjetoZero\obj\Debug\net5.0\ProjetoZero.csprojAssemblyReference.cache
+C:\Cursos\Primeiro Projeto\ProjetoZero\ProjetoZero\obj\Debug\net5.0\ProjetoZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Primeiro Projeto\ProjetoZero\ProjetoZero\obj\Debug\net5.0\ProjetoZero.AssemblyInfoInputs.cache
+C:\Cursos\Primeiro Projeto\ProjetoZero\ProjetoZero\obj\Debug\net5.0\ProjetoZero.AssemblyInfo.cs
+C:\Cursos\Primeiro Projeto\ProjetoZero\ProjetoZero\obj\Debug\net5.0\ProjetoZero.csproj.CoreCompileInputs.cache
+C:\Cursos\Primeiro Projeto\ProjetoZero\ProjetoZero\obj\Debug\net5.0\ProjetoZero.dll
+C:\Cursos\Primeiro Projeto\ProjetoZero\ProjetoZero\obj\Debug\net5.0\ref\ProjetoZero.dll
+C:\Cursos\Primeiro Projeto\ProjetoZero\ProjetoZero\obj\Debug\net5.0\ProjetoZero.pdb
+C:\Cursos\Primeiro Projeto\ProjetoZero\ProjetoZero\obj\Debug\net5.0\ProjetoZero.genruntimeconfig.cache
